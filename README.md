@@ -5,7 +5,7 @@ Extract the exercise from the Thomas' Calculus
 1. Questions和Answers的目录均有超链接，点击可以直达对应章节。
 2. Questions中，按照Syllabus把Thomas’ Calculus in SI Units, 14th Edition中所有的题目按照Section提取出来了，包括必要的公式和配图，经核对，所有MAT1001的班级的题目都是一样的。排版上可能不算特别美观，但是对完成作业影响不大。蓝色标题是题目类型，共题头的题目会把总题目放在几道题的最前面。
 3. 在Answers中，对于每一类题型都标注了课本上对应的例题，供大家类比学习。每道题的答案都包括了“中文思路讲解”和“完整英文答案” 。
-4. 所有资料均存放在https://github.com/howardchan0306/CUHKSZ-MAT1001-Homework-Collection（能来给我点个Star吗QAQ）。
+4. 所有资料均存放在https://github.com/howardchan0306/CUHKSZ-MAT1001-Homework-Collection （能来给我点个Star吗QAQ）。
 
 ## PREFACE
 选修MAT1001的各位大家好啊！
